@@ -37,7 +37,7 @@ List the ready features here:
 
 ## Screenshots
 ![Example screenshot](./img/RESNET9.png)
-<!-- If you have screenshots you'd like to share, include them here. -->(https://raw.github.com/aniket-patra-1998/photos/master/Resnet9.png)
+<!-- If you have screenshots you'd like to share, include them here. -->(https://raw.github.com/aniket-patra-1998/picture/RESNET9.png)
 
 
 ## Setup
