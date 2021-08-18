@@ -20,7 +20,7 @@
 -RESNET9 ARCHITECTURE
 ![alt text](https://miro.medium.com/max/1838/0*sdcK1I1NCqbDwiZY.png)
 
-- [DATASET]
+- DATASET
 ![alt text](https://miro.medium.com/max/2000/1*7hjycdplbjldV_MXDtnVGA.png)
 
 
