@@ -23,24 +23,23 @@
 
 
 ## Screenshots
-![alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2Fswlh%2Fnatural-image-classification-using-resnet9-model-6f9dc924cd6d&psig=AOvVaw3H9hu8U4rDYYPBMld5TUI7&ust=1629389559113000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCNic56D7uvICFQAAAAAdAAAAABAD)
+-RESNET9 ARCHITECTURE
+![alt text](https://miro.medium.com/max/1838/0*sdcK1I1NCqbDwiZY.png)
 
 - [DATASET]
-!(https://miro.medium.com/max/2000/1*7hjycdplbjldV_MXDtnVGA.png)
+![alt text](https://miro.medium.com/max/2000/1*7hjycdplbjldV_MXDtnVGA.png)
 
 
 
 ## Setup
-What are the project requirements/dependencies? Where are they listed? A requirements.txt or a Pipfile.lock file perhaps? Where is it located?
-
-Proceed to describe how to install / setup one's local environment / get started with the project.
+- OPENDATSETS (https://github.com/JovianML/opendatasets)
+- MATPLOTLIB  (https://matplotlib.org/)
+- PYTORCH (https://pytorch.org/)
 
 
 
 ## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- This project was based on 'Deep Residual Learning for Image Recognition' by 
+- This project was based on 'Deep Residual Learning for Image Recognition' by Kaiming He, Xiangyu Zhang, Shaoqing Ren, Jian Sun
 - (https://arxiv.org/abs/1512.03385).
 
 
